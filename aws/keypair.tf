@@ -1,0 +1,4 @@
+resource "aws_key_pair" "user06_keypair" {
+key_name = "2dal-user06"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5LVpuYldWB4KafXdjvCo7zkDss35gGiARzxPPMEdjylmRyFNzfsGMDIlFwEEvxeKt93X3kldAon4g4/WX7vsEIwjKD7/JKxoVyaUlU07M/iwgeSXdrAtln+rb4J1WtT0kQdEx5De/6Af2OjxWZkXzhmHYJbWeqIvwQPbYFJBIZHpneYuAeurbfXssNVJMg6ZS0Ol99OVeP+MiepROco9OpqCttXe1nsY20nYGktNaQe+FgquCj99hsCADhRJwWt2ApL02Th2GANgQFgb1LgCXfeGjidcrqgmS46upCCEj97TgjjbJ4p1bc4IClfVX0zjJEcS1Vs+As4d/jAg+ZoQ1 user06@cc-61fb8f56-7f446bcbbb-tjdhw"
+}
